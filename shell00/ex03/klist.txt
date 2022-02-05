@@ -1,0 +1,5 @@
+Credentials cache: API:2DCA826A-1694-4CC6-B56C-8ABA819793D8
+        Principal: bibrahim@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 14:48:02 2021  Aug  3 00:47:02 2021  krbtgt/1337.MA@1337.MA
